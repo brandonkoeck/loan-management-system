@@ -1,0 +1,6 @@
+# environment variables
+.env
+
+# optional local-only files
+env_test.php
+.DS_Store
