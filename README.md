@@ -24,6 +24,19 @@ I developed this system as part of an Enterprise Software Engineering course. It
 - `report/` — PHP and SQL report scripts used to generate analytical results
 - `web/` — web-facing PHP pages for searching and viewing stored documents
 
+## Application Screenshots
+
+### Uploading Documents
+<img src="assets/screenshots/1- upload document.png"/>
+
+### Searching Documents
+<img src="assets/screenshots/2- search date.png"/>
+
+### Report Example
+<img width="1023" height="392" alt="report ss" src="https://github.com/user-attachments/assets/65bfe4ca-4707-4b78-b5f5-bae1490b9a45" />
+
+**All screenshots and reports are available in the assets folder.**
+
 ### Environment Configuration
 This project uses environment variables for configuration.
 
